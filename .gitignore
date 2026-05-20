@@ -1,0 +1,13 @@
+# API credentials — never commit
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Generated reports
+threat_intelligence_report.md
